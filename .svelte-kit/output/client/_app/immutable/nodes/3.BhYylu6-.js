@@ -1,0 +1,1 @@
+import{t as r,a as o}from"../chunks/BBJgEPe-.js";import"../chunks/zQcNmBbQ.js";import{k as a}from"../chunks/B_UksNYh.js";var n=r('<h2 class="text-xl">Velkommen til din neurologiske dagbog</h2> <p>Her kan du registrere dine daglige symptomer og aktiviteter.</p> <button class="btn btn-primary">Tryk her</button>',1);function s(t){var e=n();a(4),o(t,e)}export{s as component};
