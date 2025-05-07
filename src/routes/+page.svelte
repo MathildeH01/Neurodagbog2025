@@ -15,6 +15,12 @@
 	};
 </script>
 
+<style>
+	.md\:float-none{
+		float: none;
+	}
+</style>
+
 <div>
 	<Input bind:value={userName} placeholder="Brugernavn" />
 </div>
