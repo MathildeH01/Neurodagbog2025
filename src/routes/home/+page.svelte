@@ -4,5 +4,8 @@
 <p>Her kan du registrere dine daglige symptomer og aktiviteter.</p>
  <button class="btn btn-accent ">Tryk her</button>
 
+	const btnclick = () => {goto('/symptomer');
+
+
 
     
