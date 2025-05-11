@@ -1,1 +1,1 @@
-hej
+fra lektions 2
