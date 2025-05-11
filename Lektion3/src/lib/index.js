@@ -21,4 +21,10 @@
     username = '';
     password = '';
   };
+<div>
+  <input type="text" bind:value={username} placeholder="Brugernavn" />
+  <input type="password" bind:value={password} placeholder="Adgangskode" />
+  <button class="btn btn-primary" onclick={createUser}>Opret bruger</button>
+</div>
+  
 </script>
