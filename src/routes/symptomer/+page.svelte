@@ -10,3 +10,5 @@
 <button class="btn btn-accent" on:click={btnclick}>Høre vanskeligheder</button>
 <button class="btn btn-accent" on:click={btnclick}>Smerter</button>
 <button class="btn btn-accent" on:click={btnclick}>Epilepsi</button>
+<button class="btn btn-accent" on:click={btnclick}>Bevægelse</button>
+<button class="btn btn-accent" on:click={btnclick}>Synsforstyrrelser</button>
