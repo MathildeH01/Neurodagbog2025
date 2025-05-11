@@ -1,5 +1,5 @@
-import { db } from 'slib/server/db';
-import { user } from 'sliib/server/db/schema.js';
+import { db } from '$lib/server/db';
+import { user } from '$liib/server/db/schema.js';
 import bcrypt from 'bcryptjs';
 
 export async function POST({ request }) {
