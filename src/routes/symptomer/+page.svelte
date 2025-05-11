@@ -12,3 +12,5 @@
 <button class="btn btn-accent" on:click={btnclick}>Epilepsi</button>
 <button class="btn btn-accent" on:click={btnclick}>Bevægelse</button>
 <button class="btn btn-accent" on:click={btnclick}>Synsforstyrrelser</button>
+<button class="btn btn-accent" on:click={btnclick}>Hovedpine</button>
+<button class="btn btn-accent" on:click={btnclick}>Andet</button>
