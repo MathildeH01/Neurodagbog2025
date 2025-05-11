@@ -21,6 +21,8 @@
 	}
 </style>
 
+<h1>Velkommen til Neurodagbogen</h1> <!-- Tilføjet overskrift -->
+
 <div>
 	<Input bind:value={userName} placeholder="Brugernavn" />
 </div>
